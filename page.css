@@ -1,7 +1,7 @@
 /*logo area*/
 body{
-  
   margin:0;
+  background-image: url(http://i1.piimg.com/567571/427bc03225d8369f.jpg);
 }
 ul,ol{
   list-style:none;
@@ -38,6 +38,7 @@ ul,ol{
   background-color: #efefef;
   text-align: center;
   padding-top:46px;
+  opacity: 0.6;
 }
 .banner .one-line-header h2{
   padding-left:3em;
