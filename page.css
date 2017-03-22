@@ -127,11 +127,6 @@ ul,ol{
     margin-right: auto;
   }
 }
-@media (min-width: 960px){
-  .products .product.hidden {
-      display:block;
-  }
-}
 
 .products .product.hidden {
       display: none;
@@ -146,7 +141,7 @@ ul,ol{
   display:block;
   background:#d8d8d8;
   border-radius:4px;
-  min-width:288px;
+  max-width:288px;
   max-height:181px;
 }
 .products .product >h3{
