@@ -1,7 +1,7 @@
 /*logo area*/
 body{
   margin:0;
-  background-image: url(http://i1.piimg.com/567571/427bc03225d8369f.jpg);
+  background-image: url(http://i4.buimg.com/567571/5a0bbfdb4818e7d6.jpg);
 }
 ul,ol{
   list-style:none;
@@ -38,7 +38,7 @@ ul,ol{
   background-color: #efefef;
   text-align: center;
   padding-top:46px;
-  opacity: 0.6;
+  opacity: 0.7;
 }
 .banner .one-line-header h2{
   padding-left:3em;
@@ -141,8 +141,8 @@ ul,ol{
   display:block;
   background:#d8d8d8;
   border-radius:4px;
-  max-width:288px;
-  max-height:181px;
+  width:288px;
+  height:181px;
 }
 .products .product >h3{
   max-width:204px;
